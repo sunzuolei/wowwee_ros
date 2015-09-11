@@ -1,4 +1,4 @@
-# The WowWee driver based on ROS £¨Robot Operation System)
+# The WowWee driver based on ROS (Robot Operation System)
 ## The package of rovio_base
 -------------------------
 #### encapsulated some of WowWee Rovio APIS as follow functions:
