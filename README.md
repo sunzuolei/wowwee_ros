@@ -70,7 +70,7 @@ rosrun rovio_test rovioTest
 ## References
 -------------------
 This work would be impossible without the excellent open source projects:
-* [Rovio WowWee driver API](http://kujo.cs.pitt.edu/cs1567/index.php/CPP_API) from University of Pittsburgh
+* [Rovio WowWee API document](http://www.wowwee.com/static/support/rovio/manuals/Rovio_API_Specifications_v1.2.pdf) 
 * [The driver and based on ROS by yuanboshe](http://github.com/yuanboshe/rovio_base)
 * [The package of obstacle avoidence by yuanboshe ](http://github.com/yuanboshe/rovio_obstacle_avoidence)
 
