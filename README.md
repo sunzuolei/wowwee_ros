@@ -1,4 +1,4 @@
-# The WowWee driver based on ROS 锛圧obot Operation System锛?
+# The WowWee driver based on ROS （Robot Operation System)
 ## The package of rovio_base
 -------------------------
 #### encapsulated some of WowWee Rovio APIS as follow functions:
@@ -57,7 +57,7 @@ cd ~/rovio_ws/
 catkin_make   (if you get the error tell you "rovio_base/manDrv.h: No file or directory", Please source ~/rovio_ws/setup.bash)
 ```
 
-## How to run the package of rovio_test銆乷bstacle銆乺ovio_keyboard
+## How to run the package of rovio_test, obstacle_avoidence, rovio_keyboard
 * run the follow commands in three terminals respectively
 ```
 roscore
@@ -76,7 +76,7 @@ This work would be impossible without the excellent open source projects:
 
 ## Contributor
 -------------------
-- 张子洋: [zzy@mpig.com.cn](zzy@mpig.com.cn)
+* 张子洋: [zzy@mpig.com.cn](zzy@mpig.com.cn)
 
 ---------
 Cheers!
